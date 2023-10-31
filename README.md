@@ -111,7 +111,13 @@ predict2 = predict(np.array([1,7]),theta)*10000
 print("Profit for Population of 70k $",str(round(predict2,0)))
 ```
 ## Output:
-![linear regression using gradient descent](sam.png)
+
+<img src="https://github.com/VIJAYKUMAR22007124/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119657657/59ca8c96-f3f0-492f-90dc-ebb4c05de3f2" width=500 height=400><br>
+<img src="https://github.com/VIJAYKUMAR22007124/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119657657/0285b02c-24b8-464e-bc8e-9dd1abaa12ae" width=500 height=400><br>
+<img src="https://github.com/VIJAYKUMAR22007124/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119657657/89f746b6-6a28-48e4-9582-51453d82e820" width=500 height=400><br>
+<img src="https://github.com/VIJAYKUMAR22007124/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119657657/cd7c0bfd-ba02-48da-bace-615c5d74223d" width=500 height=400><br>
+<img src="https://github.com/VIJAYKUMAR22007124/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119657657/c1f63e5d-393f-49a0-9522-250d9d28af44" width=500 height=400><br>
+<img src="https://github.com/VIJAYKUMAR22007124/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/119657657/ba1d4d22-bccf-4a0b-9068-126e09f75e91" width=500 height=400><br>
 
 
 ## Result:
